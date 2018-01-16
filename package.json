@@ -1,0 +1,26 @@
+{
+  "name": "atom-nextflow-viewer",
+  "version": "0.1.0",
+  "description": "Nextflow viewer in Atom",
+  "main": "./lib/atom-nextflow-viewer",
+  "keywords": [
+    "nextflow",
+    "viewer",
+    "preview"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manabuishii/atom-nextflow-viewer"
+  },
+  "bugs": {
+    "url": "https://github.com/manabuishii/atom-nextflow-viewer/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "svg-pan-zoom": "^3.5.1"
+  }
+}

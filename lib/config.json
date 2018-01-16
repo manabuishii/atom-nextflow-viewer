@@ -1,0 +1,24 @@
+{
+  "nextflowExecutable": {
+    "type": "string",
+    "default": ""
+  },
+  "liveUpdate": {
+    "type": "boolean",
+    "default": true
+  },
+  "openInSplitPane": {
+    "type": "boolean",
+    "default": true
+  },
+  "graphvizDotExecutable": {
+    "type": "string",
+    "default": ""
+  },
+  "grammars": {
+    "type": "array",
+    "default": [
+      "source.nextflow"
+    ]
+  }
+}
